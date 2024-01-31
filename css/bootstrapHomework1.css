@@ -1,0 +1,129 @@
+@charset "UTF-8";
+
+.gridContainer {
+	margin: 5em;
+}
+
+.lightgrey-col {
+	background-color: lightgray;
+}
+
+.tan-col {
+	background-color: tan;
+}
+
+.turquoise-col {
+	background-color: turquoise;
+}
+
+.hotpink-col {
+	background-color: hotpink;
+	text-align: center;
+}
+
+.skyblue-col {
+	background-color: skyblue;
+	text-align: center;
+}
+
+.orange-col {
+	background-color: orange;
+	text-align: center;
+}
+
+.purple-col {
+	background-color: purple;
+	text-align: center;
+}
+
+.green-col {
+	background-color: green;
+	text-align: center;
+}
+
+.gold-col {
+	background-color: gold;
+	text-align: center;
+}
+
+html body {
+	font-family: 'ubuntu', sans-serif;
+	background-color: rgb(233, 232, 232);
+}
+
+.nav-bar-color {
+	background-color: rgb(42, 91, 99) !important;
+}
+
+.nav-link:hover {
+	color: rgb(19, 41, 45) !important;
+}
+
+.nav-highlight,
+.navbar-brand,
+.nav-link {
+	color: #fff !important;
+	font-weight: 700;
+}
+
+nav .active {
+	color: rgb(0, 217, 255) !important
+}
+
+.navbar-toggler {
+	filter: invert(100%);
+}
+
+h1 {
+	font-size: 1.802em;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 1.602em;
+	font-weight: 700;
+}
+
+h3 {
+	font-size: 1.424em;
+	font-weight: 700;
+}
+
+h4 {
+	font-size: 1.26em;
+}
+
+.footer-cy {
+	background-color: rgba(42, 91, 99, 0.185) !important;
+	color: rgb(19, 41, 45) !important;
+	text-align: center;
+
+}
+
+.btn-primary {
+	background-color: rgb(74, 0, 139);
+	border-color: rgb(0, 64, 64);
+}
+
+.btn-primary:hover {
+	background-color: rgb(74, 0, 139);
+}
+
+.card-base {
+	text-align: center !important;
+}
+
+.carouselPictures {
+	max-height: 800px;
+}
+
+.carousel-padding {
+	padding-left: 125px;
+	padding-right: 125px;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+	background-color: rgb(74, 0, 139);
+
+}

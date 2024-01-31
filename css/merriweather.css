@@ -1,0 +1,82 @@
+html body {
+	font-family: 'ubuntu', sans-serif;
+	background-color: rgb(213, 190, 114);
+}
+
+.nav-bar-color {
+	background-color: rgb(23, 23, 23) !important;
+}
+
+.nav-link:hover {
+	color: rgb(213, 190, 114) !important;
+}
+
+.nav-highlight,
+.navbar-brand,
+.nav-link {
+	color: #fff !important;
+	font-weight: 700;
+}
+
+nav .active {
+	color: goldenrod !important
+}
+
+.navbar-toggler {
+	filter: invert(100%);
+
+}
+
+h1 {
+	font-size: 61.04px;
+	font-family: 'Merriweather', sans-serif;
+}
+
+h2 {
+	font-size: 47.83px;
+	font-family: 'Merriweather', sans-serif;
+}
+
+h3 {
+	font-size: 39.06px;
+	font-family: 'Merriweather', sans-serif;
+}
+
+h4 {
+	font-size: 31.25px;
+	font-family: 'Merriweather', sans-serif;
+}
+
+h5 {
+	font-size: 25px;
+	font-family: 'Merriweather', sans-serif;
+}
+
+h6 {
+	font-family: 'Merriweather', sans-serif;
+	font-weight: 700;
+}
+
+p {
+	font-size: 16px;
+	font-family: 'Nato Sans', sans-serif;
+}
+
+.merriweather {
+	font-family: 'Merriweather', sans-serif;
+}
+
+.natoSans {
+	font-family: 'Nato Sans', sans-serif;
+}
+
+.footer-cy {
+	background-color: rgba(42, 91, 99, 0.185) !important;
+	color: rgb(19, 41, 45) !important;
+	text-align: center;
+
+}
+
+.hyperlinkColor {
+	color: rgb(0, 0, 255);
+}

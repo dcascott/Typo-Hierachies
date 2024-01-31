@@ -1,0 +1,98 @@
+@charset "UTF-8";
+
+.gridContainer {
+	margin: 5em;
+}
+
+.lightgrey-col {
+	background-color: lightgray;
+}
+
+.tan-col {
+	background-color: tan;
+}
+
+.turquoise-col {
+	background-color: turquoise;
+}
+
+.hotpink-col {
+	background-color: hotpink;
+	text-align: center;
+}
+
+.skyblue-col {
+	background-color: skyblue;
+	text-align: center;
+}
+
+.orange-col {
+	background-color: orange;
+	text-align: center;
+}
+
+.purple-col {
+	background-color: purple;
+	text-align: center;
+}
+
+.green-col {
+	background-color: green;
+	text-align: center;
+}
+
+.gold-col {
+	background-color: gold;
+	text-align: center;
+}
+
+html body {
+	font-family: 'ubuntu', sans-serif;
+	background-color: rgb(233, 51, 51);
+}
+
+.nav-bar-color {
+	background-color: rgb(42, 91, 99) !important;
+}
+
+.nav-link:hover {
+	color: rgb(19, 41, 45) !important;
+}
+
+.nav-highlight,
+.navbar-brand,
+.nav-link {
+	color: #fff !important;
+	font-weight: 700;
+}
+
+.active {
+	color: rgb(0, 217, 255) !important
+}
+
+.navbar-toggler {
+	filter: invert(100%);
+}
+
+h1 {
+	font-size: 1.802em;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: 1.602em;
+	font-weight: 700;
+}
+
+.footer-cy {
+	background-color: rgba(42, 91, 99, 0.185) !important;
+	color: rgb(19, 41, 45) !important;
+	text-align: center;
+
+}
+
+.btn-primary {
+	background-color: coral;
+	color: blue;
+	border-color: coral;
+}

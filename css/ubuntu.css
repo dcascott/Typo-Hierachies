@@ -1,0 +1,77 @@
+html body {
+	font-family: 'ubuntu', sans-serif;
+	background-color: rgb(213, 190, 114);
+}
+
+.nav-bar-color {
+	background-color: rgb(23, 23, 23) !important;
+}
+
+.nav-link:hover {
+	color: rgb(213, 190, 114) !important;
+}
+
+.nav-highlight,
+.navbar-brand,
+.nav-link {
+	color: #fff !important;
+	font-weight: 700;
+}
+
+nav .active {
+	color: goldenrod !important
+}
+
+.navbar-toggler {
+	filter: invert(100%);
+
+}
+
+h1 {
+	font-size: 127.88px;
+	font-family: 'ubuntu', sans-serif;
+}
+
+h2 {
+	font-size: 90.44px;
+	font-family: 'ubuntu', sans-serif;
+}
+
+h3 {
+	font-size: 63.96px;
+	font-family: 'ubuntu', sans-serif;
+}
+
+h4 {
+	font-size: 45.23px;
+	font-family: 'ubuntu', sans-serif;
+}
+
+h5 {
+	font-size: 31.99px;
+	font-family: 'ubuntu', sans-serif;
+}
+
+p {
+	font-size: 16px;
+	font-family: 'lato', sans-serif;
+}
+
+.ubunto {
+	font-family: 'ubuntu', sans-serif;
+}
+
+.lato {
+	font-family: 'lato', sans-serif;
+}
+
+.footer-cy {
+	background-color: rgba(42, 91, 99, 0.185) !important;
+	color: rgb(19, 41, 45) !important;
+	text-align: center;
+
+}
+
+.hyperlinkColor {
+	color: rgb(0, 0, 255);
+}

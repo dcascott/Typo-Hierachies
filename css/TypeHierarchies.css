@@ -1,0 +1,42 @@
+html body {
+	font-family: 'ubuntu', sans-serif;
+	background-color: rgb(213, 190, 114);
+}
+
+.nav-bar-color {
+	background-color: rgb(23, 23, 23) !important;
+}
+
+.nav-link:hover {
+	color: rgb(213, 190, 114) !important;
+}
+
+.nav-highlight,
+.navbar-brand,
+.nav-link {
+	color: #fff !important;
+	font-weight: 700;
+}
+
+nav .active {
+	color: goldenrod !important
+}
+
+.navbar-toggler {
+	filter: invert(100%);
+}
+
+h1 {
+	font-size: 127.88px;
+}
+
+h2 {
+	font-size: 90.44px;
+}
+
+.footer-cy {
+	background-color: rgba(42, 91, 99, 0.185) !important;
+	color: rgb(19, 41, 45) !important;
+	text-align: center;
+
+}
